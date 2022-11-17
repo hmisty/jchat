@@ -1,0 +1,14 @@
+{
+  "name": "node-simple-group-chat",
+  "version": "0.1.0",
+  "description": "A simple group chat built using Node.js and WebSocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hmisty modified",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}
